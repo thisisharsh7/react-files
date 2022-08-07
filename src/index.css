@@ -1,0 +1,43 @@
+*{
+  margin:auto;
+  text-align:center;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(252, 255, 171);
+}
+.heading{
+  color:black;
+  margin-top: 13rem;
+
+}
+img{
+  width:100px;
+  height:200px;
+
+}
+.cards{
+  display: flex;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn{
+  background-color: rgb(231, 255, 207);
+  color:rgb(251, 0, 0);
+  font-weight: bold;
+  width:10rem;
+  height:2rem;
+  margin:0.5rem;
+}
+.inField{
+  width:18rem;
+}
+
